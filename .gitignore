@@ -1,0 +1,8 @@
+/build
+
+*.exe
+*.3gx
+
+*.o
+*.d
+*.elf
